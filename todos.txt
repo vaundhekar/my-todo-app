@@ -1,0 +1,4 @@
+Commit and Push code to GIT
+Sleep on time
+Finish the app
+Commit the app
